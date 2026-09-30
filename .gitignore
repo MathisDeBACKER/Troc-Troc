@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.venv/
+.pytest_cache/
+
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub/
+build/
+coverage/
+*.lock
+!pubspec.lock
+
+# IDE/OS
+.vscode/
+.idea/
+.DS_Store
